@@ -1,0 +1,44 @@
+_repo: Ricardo-s-Virus_64507
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Vestal, Herman B.
+    aliases:
+    - Beeson
+    - Vestal, Herman Beeson
+    - Vestal, H. B. (Herman B.)
+    birthdate: 1916
+    deathdate: 2007
+    gutenberg_agent_id: '33400'
+    url: http://www.gutenberg.org/2009/agents/33400
+creator:
+  author:
+    agent_name: Tenn, William
+    aliases:
+    - Putnam, Kenneth
+    - Klass, Philip
+    birthdate: 1920
+    deathdate: 2010
+    gutenberg_agent_id: '35965'
+    url: http://www.gutenberg.org/2009/agents/35965
+    wikipedia: https://en.wikipedia.org/wiki/William_Tenn
+description: ''
+gutenberg_issued: '2021-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64507'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Diseases -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Rescues -- Fiction'
+- !lcsh 'Venus (Planet) -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Short stories'
+- GITenberg
+title: Ricardo's Virus
+url: http://www.gutenberg.org/ebooks/64507
